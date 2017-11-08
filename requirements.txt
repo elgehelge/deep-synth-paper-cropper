@@ -1,0 +1,5 @@
+Wand==0.4.4
+tensorflow==1.4.0-rc1
+matplotlib==2.1.0
+scikit-image==0.13.1
+
