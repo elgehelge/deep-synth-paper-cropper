@@ -1,1 +1,6 @@
 test_photos/ filter=lfs diff=lfs merge=lfs -text
+test_photos/IMG_0804.JPG filter=lfs diff=lfs merge=lfs -text
+test_photos/IMG_0805.JPG filter=lfs diff=lfs merge=lfs -text
+test_photos/IMG_0806.JPG filter=lfs diff=lfs merge=lfs -text
+test_photos/IMG_0807.JPG filter=lfs diff=lfs merge=lfs -text
+test_photos/IMG_0808.JPG filter=lfs diff=lfs merge=lfs -text
